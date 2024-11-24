@@ -1,1 +1,1 @@
-Hey guys... Here is my short Airline management code and I have mentioned the important files regarding this project(Airline management).
+Hey guys... Here is my short Airline management project and I have mentioned the important files regarding this project(Airline management).
